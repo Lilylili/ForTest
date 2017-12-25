@@ -1,0 +1,27 @@
+
+/* Class = "UITabBarController"; title = "讯链"; ObjectID = "4Kr-TA-cRd"; */
+"4Kr-TA-cRd.title" = "讯链";
+
+/* Class = "UITabBarItem"; title = "试用"; ObjectID = "5QC-du-ZMq"; */
+"5QC-du-ZMq.title" = "试用";
+
+/* Class = "UINavigationItem"; title = "讯链"; ObjectID = "5zb-HH-5KF"; */
+"5zb-HH-5KF.title" = "讯链";
+
+/* Class = "UIViewController"; title = "Try"; ObjectID = "Gc2-mX-EXV"; */
+"Gc2-mX-EXV.title" = "Try";
+
+/* Class = "UIViewController"; title = "我的INF"; ObjectID = "eLW-ma-Tno"; */
+"eLW-ma-Tno.title" = "我的INF";
+
+/* Class = "UITabBarItem"; title = "我的INF"; ObjectID = "esd-PW-pZP"; */
+"esd-PW-pZP.title" = "我的INF";
+
+/* Class = "UITabBarItem"; title = "交易"; ObjectID = "osM-st-vfv"; */
+"osM-st-vfv.title" = "交易";
+
+/* Class = "UIViewController"; title = "交易"; ObjectID = "wkD-NB-nM4"; */
+"wkD-NB-nM4.title" = "交易";
+
+/* Class = "UINavigationItem"; title = "讯链"; ObjectID = "zXH-sz-XrU"; */
+"zXH-sz-XrU.title" = "讯链";
