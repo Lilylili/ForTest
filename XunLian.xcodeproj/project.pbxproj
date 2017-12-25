@@ -35,6 +35,10 @@
 		227DFBFC1FCD20FA00B7FAA3 /* MyInfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 227DFBFB1FCD20FA00B7FAA3 /* MyInfViewController.m */; };
 		227DFBFF1FCD259400B7FAA3 /* MianViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 227DFBFE1FCD259400B7FAA3 /* MianViewController.m */; };
 		227DFC451FCD573000B7FAA3 /* StartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 227DFC441FCD573000B7FAA3 /* StartViewController.m */; };
+		227FED841FF0A57F00DA9935 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 227FED831FF0A57F00DA9935 /* index.html */; };
+		227FED851FF0A57F00DA9935 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 227FED831FF0A57F00DA9935 /* index.html */; };
+		227FED871FF0A78300DA9935 /* Test.plist in Resources */ = {isa = PBXBuildFile; fileRef = 227FED861FF0A78300DA9935 /* Test.plist */; };
+		227FED881FF0A78300DA9935 /* Test.plist in Resources */ = {isa = PBXBuildFile; fileRef = 227FED861FF0A78300DA9935 /* Test.plist */; };
 		22A70F291FCFDA3000BE861F /* Prototype-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 22A70F281FCFDA3000BE861F /* Prototype-1.png */; };
 		22E0234D1FE37F82002CF6C4 /* 20481536@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 22E023441FE37F82002CF6C4 /* 20481536@1x.png */; };
 		22E0234E1FE37F82002CF6C4 /* 20481536@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 22E023441FE37F82002CF6C4 /* 20481536@1x.png */; };
@@ -111,6 +115,8 @@
 		227DFBFE1FCD259400B7FAA3 /* MianViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MianViewController.m; sourceTree = "<group>"; };
 		227DFC431FCD573000B7FAA3 /* StartViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StartViewController.h; sourceTree = "<group>"; };
 		227DFC441FCD573000B7FAA3 /* StartViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StartViewController.m; sourceTree = "<group>"; };
+		227FED831FF0A57F00DA9935 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		227FED861FF0A78300DA9935 /* Test.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Test.plist; sourceTree = "<group>"; };
 		22A70F281FCFDA3000BE861F /* Prototype-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Prototype-1.png"; sourceTree = "<group>"; };
 		22E023441FE37F82002CF6C4 /* 20481536@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "20481536@1x.png"; sourceTree = "<group>"; };
 		22E023451FE37F82002CF6C4 /* IP5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IP5.jpg; sourceTree = "<group>"; };
@@ -200,6 +206,8 @@
 		224203281FCBA4D500DE8B56 /* XunLian */ = {
 			isa = PBXGroup;
 			children = (
+				227FED831FF0A57F00DA9935 /* index.html */,
+				227FED861FF0A78300DA9935 /* Test.plist */,
 				224203291FCBA4D500DE8B56 /* AppDelegate.h */,
 				2242032A1FCBA4D500DE8B56 /* AppDelegate.m */,
 				227DFBFD1FCD259400B7FAA3 /* MianViewController.h */,
@@ -418,6 +426,7 @@
 			files = (
 				224203361FCBA4D500DE8B56 /* LaunchScreen.storyboard in Resources */,
 				22E023551FE37F82002CF6C4 /* iPad.jpg in Resources */,
+				227FED841FF0A57F00DA9935 /* index.html in Resources */,
 				22E023591FE37F82002CF6C4 /* IPPlus.jpg in Resources */,
 				22F577DA1FD534A900EB57CE /* Localizable.strings in Resources */,
 				22E0235D1FE37F82002CF6C4 /* 启动页640*960.jpg in Resources */,
@@ -425,6 +434,7 @@
 				224203331FCBA4D500DE8B56 /* Assets.xcassets in Resources */,
 				22A70F291FCFDA3000BE861F /* Prototype-1.png in Resources */,
 				22E023571FE37F82002CF6C4 /* iPad竖版768*1024.jpg in Resources */,
+				227FED871FF0A78300DA9935 /* Test.plist in Resources */,
 				22E023641FE39B17002CF6C4 /* LICENSE in Resources */,
 				22E0234D1FE37F82002CF6C4 /* 20481536@1x.png in Resources */,
 				22E023531FE37F82002CF6C4 /* iPad pro2048*1536.jpg in Resources */,
@@ -455,6 +465,7 @@
 			files = (
 				227557E61FDE8192007D6E8D /* LaunchScreen.storyboard in Resources */,
 				22E023561FE37F82002CF6C4 /* iPad.jpg in Resources */,
+				227FED851FF0A57F00DA9935 /* index.html in Resources */,
 				22E0235A1FE37F82002CF6C4 /* IPPlus.jpg in Resources */,
 				227557E71FDE8192007D6E8D /* Localizable.strings in Resources */,
 				22E0235E1FE37F82002CF6C4 /* 启动页640*960.jpg in Resources */,
@@ -462,6 +473,7 @@
 				227557E81FDE8192007D6E8D /* Assets.xcassets in Resources */,
 				227557E91FDE8192007D6E8D /* Prototype-1.png in Resources */,
 				22E023581FE37F82002CF6C4 /* iPad竖版768*1024.jpg in Resources */,
+				227FED881FF0A78300DA9935 /* Test.plist in Resources */,
 				22E023651FE39B17002CF6C4 /* LICENSE in Resources */,
 				22E0234E1FE37F82002CF6C4 /* 20481536@1x.png in Resources */,
 				22E023541FE37F82002CF6C4 /* iPad pro2048*1536.jpg in Resources */,
